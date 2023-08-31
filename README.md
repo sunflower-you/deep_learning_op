@@ -72,7 +72,7 @@ https://github.com/BVLC/caffe/blob/master/src/caffe/layers/argmax_layer.cpp
         测试命令： python mish_torch_python_test.py
 
     2. cpp源码以及测试脚本
-        cpp源码: Mish.py
+        cpp源码: Mish.cpp
         golden和cpp实现比对测试脚本: mish_torch_cpp_test.py
 
         测试命令： 
