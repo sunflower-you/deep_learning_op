@@ -1,15 +1,5 @@
 # deep_learning_op
 
-
-
-
-# 文档
-1. dsp op
-    dsp算子分析文档
-2. onnx opset
-    onnx最新所有算子分析文档
-
-
 # 算子调研指导
 建议先查看onnx相关的链接，功能参数介绍比较详细，有些后处理算子没有需要查看别的框架，如果看算子源码建议先看ncnn、darknet，相对简洁一点
 
